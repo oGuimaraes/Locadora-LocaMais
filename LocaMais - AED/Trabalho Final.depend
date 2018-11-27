@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543005775 source:c:\users\pc\desktop\maria eduarda\aed\trabalho final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
+1543289526 source:c:\workspace\locamais - aed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
